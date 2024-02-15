@@ -1,4 +1,7 @@
  # Ingredients
+<!--
+    See `workflow.md` to see how to edit this file safely.
+    -->
 
  - Top Bun
  - Tomato Relish 
